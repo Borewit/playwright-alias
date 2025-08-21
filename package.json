@@ -10,11 +10,6 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.54.2",
-    "@types/node": "^24.3.0",
-    "module-alias": "^2.2.3"
-  },
-  "_moduleAliases": {
-    "@cy": "./cypress",
-    "@": "./aliased"
+    "@types/node": "^24.3.0"
   }
 }
